@@ -12,6 +12,7 @@ This server is designed to work with the ESP32 DeskDog firmware and provides the
 * Designed for AI-assisted learning and daily companionship
 * Compatible with the ESP32 DeskDog firmware
 
+
 ## Usage
 This server is intended to be paired with the **ESP32 DeskDog** firmware.
 After configuring the backend, you can use it to control your ESP32-based robot dog, including:
