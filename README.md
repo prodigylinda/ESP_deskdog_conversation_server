@@ -3,7 +3,8 @@ Open-source conversational server for the **ESP32 DeskDog**, a customized educat
 
 This server is designed to work with the ESP32 DeskDog firmware and provides the AI backend for voice-based interaction, educational Q&A, and robot control. It can be connected to your own Xiaozhi-compatible backend and customized for different voices, knowledge bases, and interaction behaviors.
 
-## Features
+## Feature
+
 * Voice-based AI conversation
 * Built-in educational knowledge covering:
 * Customizable AI voice
